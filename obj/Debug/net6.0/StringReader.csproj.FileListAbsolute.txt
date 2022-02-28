@@ -1,0 +1,15 @@
+C:\Work\C#\streams\StringReader\bin\Debug\net6.0\StringReader.exe
+C:\Work\C#\streams\StringReader\bin\Debug\net6.0\StringReader.deps.json
+C:\Work\C#\streams\StringReader\bin\Debug\net6.0\StringReader.runtimeconfig.json
+C:\Work\C#\streams\StringReader\bin\Debug\net6.0\StringReader.dll
+C:\Work\C#\streams\StringReader\bin\Debug\net6.0\ref\StringReader.dll
+C:\Work\C#\streams\StringReader\bin\Debug\net6.0\StringReader.pdb
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.csproj.AssemblyReference.cache
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfoInputs.cache
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfo.cs
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.dll
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\ref\StringReader.dll
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.pdb
+C:\Work\C#\streams\StringReader\obj\Debug\net6.0\StringReader.genruntimeconfig.cache
